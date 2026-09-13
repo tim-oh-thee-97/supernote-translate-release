@@ -4,6 +4,10 @@ Release APKs for my Translate app for Supernote Nomad.
 
 > Please keep in mind that translation quality varies from language to language! I did not create the underlying data model that this app uses for translation, and I don't really have a way to improve it.
 
+If you like my work, no pressure at all, but please feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/tim_oh_thee)
+
 ## Features
 
 * Fully offline translation between any pairing of 49 supported languages.
